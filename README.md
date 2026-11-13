@@ -1,7 +1,10 @@
-# 🟢 **Harvard CS50's Introduction to Artificial Intelligence with Python**
+# 🟢 **HarvardX CS50's Introduction to Artificial Intelligence with Python**
   
-Coursework and projects for Harvard CS50 AI   
+This repository contains my coursework and projects for HarvardX's CS50 AI course.
+
 OpenCourseWare - https://cs50.harvard.edu/ai/  
+CS50 on edX - https://www.edx.org/cs50  
+CS50AI on edX - https://cs50.edx.org/ai  
 
 * [My development notes](https://docs.google.com/document/d/1MoPC95gTWSvpYJuafEXufLsiOsnFecei46ErqHS7GuU)  
 
@@ -9,7 +12,7 @@ OpenCourseWare - https://cs50.harvard.edu/ai/
 
 | Week | Topic | Projects | Content |
 |---|---|---|---|
-| 0 | Search | [degrees](projects/0/degrees), [tictactoe](projects/0/tictactoe) | Search Problems, Depth-First Search, Breadth-First Search, Greedy Best-First Search, A* Search, Minimax, Alpha-Beta Pruning |
+| 0 | Search | [Degrees](projects/0/degrees), [Tic-Tac-Toe](projects/0/tictactoe) | Search Problems, Depth-First Search, Breadth-First Search, Greedy Best-First Search, A* Search, Minimax, Alpha-Beta Pruning |
 | 1 | Knowledge | [minesweeper](projects/1/minesweeper) | Propositional Logic, Entailment, Inference, Model Checking, Resolution, First-Order Logic |
 | 2 | Uncertainty | ... | Probability, Conditional Probability, Random Variables, Independence, Bayes' Rule, Joint Probability, Bayesian Networks, Sampling, Markov Models, Hidden Markov Models |
 | 3 | Optimization | ... | Local Search, Hill Climbing, Simulated Annealing, Linear Programming, Constraint Satisfaction, Backtracking Search |

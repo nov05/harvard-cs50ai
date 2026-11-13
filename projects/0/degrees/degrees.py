@@ -3,6 +3,7 @@ import sys
 
 from util import Node, StackFrontier, QueueFrontier
 
+
 # Maps names to a set of corresponding person_ids
 names = {}
 
@@ -108,8 +109,6 @@ def shortest_path(source, target):
             if neighbor_id not in visited:
                 visited.add(neighbor_id)
                 queue.add((neighbor_id, path + [(movie_id, neighbor_id)]))
-
-    return None
 
 
 def person_id_for_name(name):
