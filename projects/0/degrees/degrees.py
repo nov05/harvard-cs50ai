@@ -91,12 +91,12 @@ def shortest_path(source, target):
 
     If no possible path, returns None.
     """
-    ## TODO
+    # TODO
     # raise NotImplementedError
     queue = QueueFrontier()
     queue.add((source, []))
     visited = {source}
-    
+
     if source == target:
         return []
     

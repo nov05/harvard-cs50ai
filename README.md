@@ -3,6 +3,8 @@ OpenCourseWare
 Coursework and projects for Harvard CS50 AI   
 https://cs50.harvard.edu/ai/  
 
+* [My development notes](https://docs.google.com/document/d/1MoPC95gTWSvpYJuafEXufLsiOsnFecei46ErqHS7GuU)  
+
 ## Projects
 
 | Week | Projects |
@@ -37,3 +39,15 @@ harvard-cs50ai/
     ├── minesweeper/
     └── ...
 ```
+
+## Gradebook 
+
+Log in with your GitHub account, then provide your edX account.  
+https://cs50.me/cs50ai
+https://github.com/me50/nov05   
+
+## Python library "check50"
+
+Document - https://cs50.readthedocs.io/projects/check50/en/latest/index.html  
+
+<img src="https://raw.githubusercontent.com/nov05/pictures/d750ed590281e811db9326cf836a3173bcbe5027/harvard-cs50ai/2026-11-13%2002_27_15-.png" width=800>  
