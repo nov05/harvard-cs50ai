@@ -1,6 +1,7 @@
 # Harvard CS50's Introduction to Artificial Intelligence with Python
 OpenCourseWare  
-Coursework and projects for Harvard CS50 AI  
+Coursework and projects for Harvard CS50 AI   
+https://cs50.harvard.edu/ai/  
 
 ## Projects
 
@@ -12,8 +13,9 @@ Coursework and projects for Harvard CS50 AI
 
 ## Data
 
-All project datasets are organized by project name under `data/`. 
+All project datasets are organized by project name under `data/`.  
 Datasets are stored locally under `data/` and excluded from Git.   
+Get the original project files [here](https://drive.google.com/drive/folders/1PCfEn_bax8NkSC8T35WUIBfwDceXA7gi).  
 
 ```
 harvard-cs50ai/

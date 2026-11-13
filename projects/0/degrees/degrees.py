@@ -91,9 +91,25 @@ def shortest_path(source, target):
 
     If no possible path, returns None.
     """
+    ## TODO
+    # raise NotImplementedError
+    queue = QueueFrontier()
+    queue.add((source, []))
+    visited = {source}
+    
+    if source == target:
+        return []
+    
+    while not queue.empty():
+        person_id, path = queue.remove()
+        for movie_id, neighbor_id in neighbors_for_person(person_id):
+            if neighbor_id == target:
+                return path + [(movie_id, neighbor_id)]
+            if neighbor_id not in visited:
+                visited.add(neighbor_id)
+                queue.add((neighbor_id, path + [(movie_id, neighbor_id)]))
 
-    # TODO
-    raise NotImplementedError
+    return None
 
 
 def person_id_for_name(name):
