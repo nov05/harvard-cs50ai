@@ -7,11 +7,15 @@ OpenCourseWare - https://cs50.harvard.edu/ai/
 
 ## 👉 **Projects**
 
-| Week | Projects |
-|---|---|
-| 0 | [degrees](projects/0/degrees), [tictactoe](projects/0/tictactoe) |
-| 1 | [minesweeper](projects/1/minesweeper), ... |
-| 2-6 | ... |
+| Week | Topic | Projects | Content |
+|---|---|---|---|
+| 0 | Search | [degrees](projects/0/degrees), [tictactoe](projects/0/tictactoe) | Search Problems, Depth-First Search, Breadth-First Search, Greedy Best-First Search, A* Search, Minimax, Alpha-Beta Pruning |
+| 1 | Knowledge | [minesweeper](projects/1/minesweeper) | Propositional Logic, Entailment, Inference, Model Checking, Resolution, First-Order Logic |
+| 2 | Uncertainty | ... | Probability, Conditional Probability, Random Variables, Independence, Bayes' Rule, Joint Probability, Bayesian Networks, Sampling, Markov Models, Hidden Markov Models |
+| 3 | Optimization | ... | Local Search, Hill Climbing, Simulated Annealing, Linear Programming, Constraint Satisfaction, Backtracking Search |
+| 4 | Learning | ... | Supervised Learning, Nearest-Neighbor Classification, Perceptron Learning, Support Vector Machines, Regression, Loss Functions, Overfitting, Regularization, Reinforcement Learning, Markov Decision Processes, Q-Learning, Unsupervised Learning, k-means Clustering |
+| 5 | Neural Networks | ... | Artificial Neural Networks, Activation Functions, Gradient Descent, Backpropagation, Overfitting, TensorFlow, Image Convolution, Convolutional Neural Networks, Recurrent Neural Networks |
+| 6 | Language | ... | Syntax, Semantics, Context-Free Grammar, nltk, n-grams, Bag-of-Words Model, Naive Bayes, Word Representation, word2vec, Attention, Transformers |
 
 ## 👉 **Files**  
 
